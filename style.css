@@ -20,6 +20,7 @@ body {
     justify-content: space-evenly;
     align-items: center;
     text-align: center;
+    border-radius: 5px;
 }
 
 .header {
@@ -48,4 +49,22 @@ body {
     line-height: 127px;
     text-align: center;
     color: #F94F6D;
+}
+
+.button {
+    width: 45px;
+    height: 45px;
+    border: 2px solid #9AABD8;
+    border-radius: 5px;
+    background: none;
+    font-family: 'Cursed Timer ULiL';
+    font-size: 18px;
+    text-align: center;
+    color: #9AABD8;
+    cursor: pointer;
+}
+
+.button:hover {
+    background: #9AABD8;
+    color: #1B244A;
 }
