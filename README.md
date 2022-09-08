@@ -6,6 +6,4 @@
 
 ### Website URL
 
-[Website URL - Coming Soon]()
-
-### What did I Learn?
+[Website URL](https://aditi002-holo.github.io/basketball-scorecard/)
