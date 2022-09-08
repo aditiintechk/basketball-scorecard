@@ -14,7 +14,9 @@ const plusOneforHome = document.getElementById("plus-one-home");
 const plusTwoforHome = document.getElementById("plus-one-home");
 const plusThreeforHome = document.getElementById("plus-one-home");
 
-const plusOneforGuest = document.getElementById("plus-one-home");
-const plusTwoforGuest = document.getElementById("plus-one-home");
-const plusThreeforGuest = document.getElementById("plus-one-home");
+const plusOneforGuest = document.getElementById("plus-one-guest");
+const plusTwoforGuest = document.getElementById("plus-one-guest");
+const plusThreeforGuest = document.getElementById("plus-one-guest");
 
+let countHome = 0;
+let countGuest = 0;
