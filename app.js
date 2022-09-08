@@ -9,14 +9,6 @@
 const homeScore = document.getElementById("home-score");
 const guestScore = document.getElementById("guest-score");
 
-const plusOneforHome = document.getElementById("plus-one-home");
-const plusTwoforHome = document.getElementById("plus-one-home");
-const plusThreeforHome = document.getElementById("plus-one-home");
-
-const plusOneforGuest = document.getElementById("plus-one-guest");
-const plusTwoforGuest = document.getElementById("plus-one-guest");
-const plusThreeforGuest = document.getElementById("plus-one-guest");
-
 let countHome = 0;
 let countGuest = 0;
 
