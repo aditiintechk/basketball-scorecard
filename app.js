@@ -5,7 +5,6 @@
 // 3. onclick() - define functions in html
 // 4. add points logic in the functions accordingly
 
-// 1.
 
 const homeScore = document.getElementById("home-score");
 const guestScore = document.getElementById("guest-score");
