@@ -5,6 +5,7 @@
 }
 
 body {
+    font-family: 'Cursed Timer ULiL';
     display: flex;
     justify-content: center;
     /* align-items: center; */
@@ -18,6 +19,7 @@ body {
     display: flex;
     justify-content: space-evenly;
     align-items: center;
+    text-align: center;
 }
 
 .header {
@@ -27,4 +29,23 @@ body {
     font-size: 40px;
     text-align: center;
     color: #EEEEEE;
+}
+
+.score-card {
+    width: 155px;
+    height: 120px;
+    text-align: center;
+    background: #080001;
+    margin: 20px;
+    border-radius: 5px;
+}
+
+.score {
+
+    font-style: normal;
+    font-weight: 400;
+    font-size: 90px;
+    line-height: 127px;
+    text-align: center;
+    color: #F94F6D;
 }
