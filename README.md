@@ -6,4 +6,4 @@
 
 ### Website URL
 
-[Website URL](https://aditi002-holo.github.io/basketball-scorecard/)
+[BasketBall ScoreCard](https://aditi002-holo.github.io/basketball-scorecard/)
