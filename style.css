@@ -6,9 +6,15 @@
 
 body {
     font-family: 'Cursed Timer ULiL';
+    height: 100vh;
     display: flex;
+    flex-direction: column;
     justify-content: center;
-    /* align-items: center; */
+    align-items: center;
+    background: #7e87ae;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
 
 .main {
