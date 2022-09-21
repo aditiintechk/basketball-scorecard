@@ -5,11 +5,7 @@ Repo URL: [Basketball Scorecard Code](https://github.com/Aditi002-holo/basketbal
 
 ## Unit Converter
 
-Inactive State
-
 ![](./screenshot.JPG)
-
-Active State
 
 ![](./screenshot-active-state.JPG)
 
