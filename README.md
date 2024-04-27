@@ -1,7 +1,7 @@
 # Scrimba Practice Project - Basketball Scorecard
 
-Live URL: [Basketball Scorecard](https://aditi002-holo.github.io/basketball-scorecard/) <br/>
-Repo URL: [Basketball Scorecard Code](https://github.com/Aditi002-holo/basketball-scorecard)
+Live URL: [Basketball Scorecard](https://aditiintechk.github.io/basketball-scorecard/) <br/>
+Repo URL: [Basketball Scorecard Code](https://github.com/aditiintechk/basketball-scorecard)
 
 ## Unit Converter
 
